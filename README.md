@@ -1,6 +1,6 @@
 # school-projects
 This repo contains all the pipelines I made during my Master of Science: Data Science, Artificial Inteligence & Digital Business.
-<br \> Which demonstrates my knowledge and experience with:
+<br /> Which demonstrates my knowledge and experience with:
 - supervised & unsupervised machine learning algoritms (such as K-means, KNN, Neural Networks, SVM)
 - NLP: tokenizing, vectorizing, classifying and analyzing textual data
 - building a CNN for binary image classification
